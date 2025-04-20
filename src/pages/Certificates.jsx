@@ -17,15 +17,15 @@ const certificates = [
   },
   {
     title: "Mastering Data Structure and Algorithms: Theory to Practice - LPU",
-    image: "/certificates/dsa.jpg",
+    image: "/certificates/dsa.png",
   },
   {
     title: " Introduction to Generative AI - Coursera",
-    image: "/certificates/ai2.jpg",
+    image: "/certificates/ai2.png",
   },
   {
     title: " Generative AI Primer - Coursera",
-    image: "/certificates/ai1.jpg",
+    image: "/certificates/ai1.png",
   },
 ];
 
