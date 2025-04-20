@@ -65,7 +65,7 @@ function Header() {
 
           <Col md={6} className="image-section text-center">
             <img
-              src="/myphoto.jpg"
+              src="/photo.jpg"
               alt="Satakratu Chakraborty"
               className="header-img"
             />
