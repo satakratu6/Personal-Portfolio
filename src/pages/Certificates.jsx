@@ -4,7 +4,7 @@ import "./Certificates.css";
 
 const certificates = [
   {
-    title: "Programming in Modern C++",
+    title: "Programming in Modern C++ - NPTEL",
     image: "/certificates/cpp.png",
   },
   {
