@@ -9,15 +9,23 @@ const certificates = [
   },
   {
     title: "Cloud Computing - NPTEL",
-    image: "/certificates/cloud.jpg",
+    image: "/certificates/cloud.png",
   },
   {
-    title: "Web Dev - Coursera",
-    image: "/certificates/web.jpg",
+    title: "HTML, CSS & JavaScript - Coursera",
+    image: "/certificates/web.png",
   },
   {
-    title: "DSA - CipherSchools",
+    title: "Mastering Data Structure and Algorithms: Theory to Practice - LPU",
     image: "/certificates/dsa.jpg",
+  },
+  {
+    title: " Introduction to Generative AI - Coursera",
+    image: "/certificates/ai2.jpg",
+  },
+  {
+    title: " Generative AI Primer - Coursera",
+    image: "/certificates/ai1.jpg",
   },
 ];
 
