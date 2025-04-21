@@ -1,5 +1,13 @@
-body, html, #root {
-  margin: 0;
-  padding: 0;
-  height: 100%;
+/* Default dark theme */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
 }
+
+/* Light theme */
+body.light-mode {
+  background-color: #f4f4f4;
+  color: #000000;
+}
+
+/* Optional: Override component backgrounds, borders, etc., as needed */

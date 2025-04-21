@@ -1,0 +1,48 @@
+/* Navbar styling */
+.navbar-custom {
+  background-color: #1f1f1f;
+  padding: 15px 20px;
+  transition: background-color 0.3s ease;
+  z-index: 999;
+}
+
+/* Nav links */
+.navbar-custom .nav-link {
+  color: #ffffff;
+  margin-left: 15px;
+  transition: color 0.3s ease;
+  font-weight: 500;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #00bcd4;
+}
+
+/* Brand styling */
+.navbar-custom .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* Button styling */
+.navbar-custom .btn {
+  font-size: 0.875rem;
+}
+
+/* Light mode overrides */
+body.light-mode .navbar-custom {
+  background-color: #ffffff;
+}
+
+body.light-mode .navbar-custom .nav-link {
+  color: #000000;
+}
+
+body.light-mode .navbar-custom .nav-link:hover {
+  color: #007bff;
+}
+
+body.light-mode .navbar-custom .navbar-brand {
+  color: #000000;
+}
