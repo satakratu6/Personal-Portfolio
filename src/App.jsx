@@ -10,7 +10,7 @@ import Certificates from "./pages/Certificates";
 function App() {
   return (
     <>
-      {/* <Navigation /> */}
+      <Navigation />
       <Header />
       <About />
       <Skills />
